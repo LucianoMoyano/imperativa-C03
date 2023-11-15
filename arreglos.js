@@ -97,7 +97,8 @@ Juan Pepe Jorge Francisco
 
 //CODIGO
 
-/* amigos[1] //Pepe
+/* 
+amigos[1] //Pepe
 amigos[0] // Juan
 amigos[3] //Francisco
 amigos[amigos.length] //undefined, ya que la posicion mas alta de mi variable amigos es 3 y yo le voy a estar pidiendo la posicon numero 4

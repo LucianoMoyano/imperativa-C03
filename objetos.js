@@ -258,7 +258,7 @@ let ecommerce = [
     { nombre: "Monitor Philips", precio: 12000, articulos: 20 },
     { nombre: "Teclado logitech", precio: 3000, articulos: 5 },
   ];
-/* //se crea la funcion, le damos un nombre "elements" y se agrega la cantidad de parametros que se van a utilizar
+//se crea la funcion, le damos un nombre "elements" y se agrega la cantidad de parametros que se van a utilizar
 function elements (arreglo, propiedad){
     //crear una variable en donde su valor sea un arreglo vacio
     let nuevoArreglo = []
@@ -269,7 +269,7 @@ function elements (arreglo, propiedad){
     }
     //pedimos que nos retorne la variable nuevoArreglo
     return nuevoArreglo
-} */
+} 
 
 
 

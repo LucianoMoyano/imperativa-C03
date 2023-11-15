@@ -140,7 +140,6 @@ while(2 <= 5){
 /* 
 for (inicializacion; condicion; incremento / decremento) {
   //bloque de codigo que indica lo que queres hacer dentro del for
-
 } 
 */
 
