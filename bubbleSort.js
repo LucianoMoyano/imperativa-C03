@@ -24,7 +24,7 @@ console.log(numeros)
 // 1)
 //Ordenar alfabeticamente
 
-let letras = ["c", "z", "a", "l", "A"]
+let letras = ["ana", "anas", "vacaciones", "casa", "zorro", "diamante"]
 
 for(let i = 0; i < letras.length; i++) {
     for(let j = 0; j < letras.length - 1; j++) {
